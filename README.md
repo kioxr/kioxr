@@ -1,4 +1,4 @@
-# Hi, I'm Ahmad 👋
+# Hi 👋
 🎓 CS Graduate at Qatar University, May 2026  
 🔐 Interested in Cybersecurity, AI, and Full-Stack Development  
 🎮 Game Developer | Unity & C#  
