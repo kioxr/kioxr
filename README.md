@@ -1,8 +1,7 @@
 # Hi 👋
-🎓 CS Graduate at Qatar University, May 2026  
+🎓 CS Graduate, May 2026  
 🔐 Interested in Cybersecurity, AI, and Full-Stack Development  
-🎮 Game Developer | Unity & C#  
-📍 Doha, Qatar  
+🎮 Game Developer | Unity & C#   
 📫 abfmashhadani@gmail.com  
 
 ---
@@ -37,7 +36,3 @@
 ## 🌐 Languages
 - 🇸🇦 Arabic — Native  
 - 🇬🇧 English — Fluent  
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imabf&show_icons=true&theme=dark)
